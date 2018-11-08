@@ -3,6 +3,16 @@ ComFi Repo for Carolina FinTech Hub
 
 ### Video Link:
 
+
+#### Description:
+  Here at ComFi, we strive to make personal finance interactive and easy.  Currently, personal finance is defined by “personal”; talking about your finances with other people is taboo. ComFi encourages people to open conversations about financial topics like budgeting, savings, and taxes with their friends and family.  With ComFi, you can track how much money you save each month and compare your categorized spending to your friends’ spending without ever disclosing a single dollar amount to anybody. We only use percentages, so improvements will all be measured with respect to your own finances.  With the power of machine learning, we use savings and spending projects to help motivate you and your friends to save together.  Using the Plaid and Facebook Authentication API, you won’t have to worry about your data or identity being stolen.
+  
+  Research suggests that having a rival in certain endeavors can improve performance.  Our goal is to harness the power of competition to help our users see the greatest improvements possible.
+  
+  Identifying where you excel and where you can improve allows us to offer personalized solutions and learning services to help you save your way to your next vacation. You and your friends will have access each others strengths and weaknesses so everyone can communally help one another succeed! 
+  
+  The resources to learn how to save efficiently are abundant and widespread, yet many people still don’t know how to take action. With ComFi, you and your friends can tangibly save more and create a community that helps you regain control of your finances.
+
 #### Individual Repos:
 backend: https://github.com/esimran/backend-comfi
 
