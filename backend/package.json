@@ -1,0 +1,28 @@
+{
+  "name": "backend-comfi",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "supervisor app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esimran/backend-comfi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esimran/backend-comfi/issues"
+  },
+  "homepage": "https://github.com/esimran/backend-comfi#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "firebase-admin": "^6.0.0",
+    "forever": "^0.15.3",
+    "moment": "^2.22.2",
+    "plaid": "^2.8.2",
+    "supervisor": "^0.12.0"
+  }
+}
